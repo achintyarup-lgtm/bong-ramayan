@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bong-ramayan.achintyarupray.com/sitemap-index.xml
